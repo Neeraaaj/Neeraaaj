@@ -31,11 +31,16 @@
 ###
 <h1 align="center">Open Source Contributor</h1>
 <hr />
+<div align="left">
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="95" />
+  <img width="12" />
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="95" />
+  <img width="12" />
   <img src="https://assets.holopin.io/hf2023levels/level1-blue-cat-0-0.webp" height="95" />
+  <img width="12" />
   <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" height="95" />
-
+  <img width="12" />
+</div>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
