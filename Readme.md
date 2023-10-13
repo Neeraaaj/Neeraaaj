@@ -29,6 +29,13 @@
 <p align="left">🚀 React developer by day, data scientist by night, and a front-end enthusiast around the clock. Combining the art of crafting elegant user interfaces with the science of data-driven insights. Let's build beautiful experiences and crunch numbers that matter! 💻📊 #ReactJS #DataScience #FrontEndDev"</p>
 
 ###
+<h1 align="center">Open Source Contributor</h1>
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="25" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="25" />
+  <img src="https://assets.holopin.io/hf2023levels/level1-blue-cat-0-0.webp" height="25" />
+  <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" height="25" />
+###
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
