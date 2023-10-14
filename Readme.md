@@ -40,6 +40,8 @@
   <img width="12" />
   <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" height="95" />
   <img width="12" />
+  <img src="https://assets.holopin.io/hf2023levels/level3-red-helmet-tshirt-fish.webp" height="25" />
+  <img width="12" />
 </div>
 <h3 align="left">🛠 Language and tools</h3>
 
